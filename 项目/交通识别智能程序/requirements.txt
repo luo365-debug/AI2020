@@ -1,0 +1,3 @@
+C:\Users\PC\Desktop\登陆推理工程>python setup.py install
+
+C:\Users\PC\Desktop\业务推理工程>python setup.py install
